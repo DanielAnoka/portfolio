@@ -36,7 +36,7 @@ export const EXPERIENCES = [
     state: "Lokogoma, Abuja",
     description: `Worked in a team to develop a responsive Next.js app for Hemam Synergy, boosting performance and user experience across devices. Also led UI improvements and optimized load times.`,
     year: `October 2023 -  November 2023`,
-    stack: ["React", "Tailwind"],
+    stack: ["React", "Tailwind",],
   },
   {
     title: "Frontend-Developer - ICDAT",
@@ -44,6 +44,13 @@ export const EXPERIENCES = [
     description: `specializing in building and deploying MERN applications. Collaborate with teams to ensure code quality, optimize performance, and deliver seamless user experiences.`,
     year: `Nov 2023 – 2024`,
     stack: ["React js", "CSS", "JavaScript"],
+  },
+  {
+    title: "Frontend and Mobile Developer - MERQRI (Volunteer)",
+    state: "Lagos",
+    description: `Specializing in frontend and mobile development, I collaborate to ensure quality code, optimized performance, and seamless, responsive user experiences.`,
+    year: `Nov 2023 – 2024`,
+    stack: ["React js", "ReactNative","Tailwind",],
   },
 ];
 
@@ -58,7 +65,7 @@ export const PROJECTS = [
     img: "prizeless.png",
   },
   {
-    title: "MERQRI - A Logistics",
+    title: "MERQRI - A Logistics Company",
     description:
       "MerQri connects you with top-rated movers. Compare quotes, read reviews, and book online—all to make your move stress-free!",
     stack: ["React", "Tailwind"],
